@@ -1,0 +1,17 @@
+
+h2 {
+	margin-top: 30px;
+	font-family: arial , sans-serif;
+	font-size: 2em;
+}
+
+.titreSection {
+	font-family: arial , sans-serif;
+	font-size: 1.5em;
+	font-weight: 20px;
+}
+
+footer > p {
+	padding-top: 60px;
+	padding-left: 60px;
+}
