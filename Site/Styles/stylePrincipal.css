@@ -5,6 +5,10 @@ html {
 	font-family: arial , sans-serif;
 }
 
+body{
+	margin: 0px;
+}
+
 @font-face {
 	font-family: titreFont;
 	src: url("../Ressources/Polices/coolvetica.ttf");
@@ -13,18 +17,21 @@ html {
 h1 {
 	font-family: titreFont;
 	font-size: 3em;
+	width: 400px;
+	display: inline-block;
 }
 
 p {
 	font-family: arial , sans-serif;
 	font-size: 15px;
+	line-height: 22px;
 }
 
 aside {
 	float: left;
 	background-color: #5bd75b;
 	width: 200px;
-	height: 900px;
+	height: auto;
 	border : ridge 5px black;
 	margin-left: 20px;
 }
@@ -33,7 +40,12 @@ header {
 	text-align: center;
 	padding: 20px;
 	margin-bottom: 10px;
+	margin: 10px 10px 10px 10px;
 	border-radius: 10px 10px 10px 10px ;
+	border: ridge 3px black;
+	background-image: url("../Ressources/Images/articleBack.png");
+	width: auto;
+	min-width: 1000px;
 }
 footer	{
 	background-color: #6fdc6f;
@@ -41,17 +53,20 @@ footer	{
 	width: 100%;
 
 	padding: 10px auto 10px 10px ;
-	
+	min-width: 1053px;
 	margin-top: 30px;
 
 }
 main	{
-	height: 900px;
+	height: auto;
+	width: auto;
 	background-color: #c1f0c1;
 	margin-left: 250px;
-	margin-right: 10%;
+	margin-right: 9%;
 	text-align: center;
-	padding-top: 10px;
+	border: ridge 3px black;
+	background-image: url("../Ressources/Images/articleBack.png");
+	min-width: 700px;
 
 }
 nav	{
@@ -66,7 +81,8 @@ nav > h3 {
 	border-radius: 10px 10px 10px 10px;
 	margin-left: 10px;
 	margin-right: 10px;
-	background-color: green;
+	background-image: url("../Ressources/Images/altBack.png");
+
 }
 li {
 	text-align: left;
