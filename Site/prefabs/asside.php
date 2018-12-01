@@ -2,12 +2,10 @@
 	<nav>
 		<h3>Accueil</h3>
 		<ul>
-			<?php if(isset($isInIndex)):?>
-				<li><a href=<?php if($isInIndex == true){echo "index.php#Presentations";}else{echo "../index.php#Presentations";}?>>Présentation</a></li>
-				<li><a href=<?php if($isInIndex == true){echo "index.php#Photos";}else{echo "../index.php#Photos";}?>>Photos</a></li>
-				<li><a href="">Lien 3</a></li>
-				<li><a href="">Lien 4</a></li>
-			<?php endif ?>
+			<li><a href="accueil.php#Presentation">Présentation</a></li>
+			<li><a href="accueil.php#Photos">Photos</a></li>
+			<li><a href="">Lien 3</a></li>
+			<li><a href="">Lien 4</a></li>
 		</ul>
 		<h3>Actualités</h3>
 		<ul>
