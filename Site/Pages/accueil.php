@@ -32,6 +32,26 @@
 		<p> Voici tout une série de photos issues des dernières éditions de la fête de l'âne!</p>
 		<br>
 		<img src="../Ressources/Images/photo47.jpg" alt="?">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo46.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo45.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo44.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo43.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo42.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo41.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo31.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo39.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo38.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo37.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo36.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo35.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo34.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo33.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo32.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo40.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo29.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo30.jpg?fx=r_640_640">
+		<img src="http://fetedelane.e-monsite.com/medias/album/photo27.jpg?fx=r_640_640">
+
 
 
 </main>
