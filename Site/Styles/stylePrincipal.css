@@ -25,6 +25,9 @@ p {
 	font-family: arial , sans-serif;
 	font-size: 15px;
 	line-height: 22px;
+	text-align: justify;
+	padding-left: 70px;
+	padding-right: 70px;
 }
 
 aside {
@@ -48,15 +51,20 @@ header {
 	min-width: 1000px;
 }
 footer	{
-	background-color: #6fdc6f;
+	background-color: darkgreen;
+	background-image: url("../Ressources/Images/altBack.png");
 	height: 200px;
 	width: 100%;
-
 	padding: 10px auto 10px 10px ;
 	min-width: 1053px;
 	margin-top: 30px;
 
 }
+
+footer > p {
+	padding-top: 80px;
+}
+
 main	{
 	height: auto;
 	width: auto;

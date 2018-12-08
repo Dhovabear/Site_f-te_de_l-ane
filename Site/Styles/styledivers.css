@@ -1,0 +1,23 @@
+#Exposants{
+	background-color: #6fdc6f;
+	text-align: center;
+	display: inline-block;
+	width:38%;
+	height: 100px;
+	margin-bottom: 10px;
+	height: 100px;
+	margin-right: 5%;
+	margin-left: 5%;
+	padding-top: 5px;
+	border: solid 2px black;
+	border-radius: 10px 10px 10px 10px;
+}
+h2 {
+	font-family: arial , sans-serif;
+	font-size: 2em;background-color: darkgreen;
+	margin-top: auto;padding-bottom: 20px;
+	padding-top: 20px;
+	height: auto;
+	background-image: url("../Ressources/Images/altBack.png");
+	border-bottom: ridge black 3px;
+}
