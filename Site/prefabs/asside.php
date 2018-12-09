@@ -16,10 +16,8 @@
 		</ul>
 		<h3>Contact</h3>
 		<ul>
-			<li><a href="">Lien 1</a></li>
-			<li><a href="">Lien 2</a></li>
-			<li><a href="">Lien 3</a></li>
-			<li><a href="">Lien 4</a></li>
+			<li><a href="contact.php">Organisateurs</a></li>
+			<li><a href="contact.php#contacter">Nous contacter</a></li>
 		</ul>
 
 	</nav>

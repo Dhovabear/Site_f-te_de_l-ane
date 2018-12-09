@@ -1,0 +1,17 @@
+.ptext {
+	text-align: center;
+}
+.orga {
+	display: inline-block;
+	border : 5px groove lightgreen;
+	border-radius: 10px;
+	padding: 5%;
+	width: 20%;
+	font-size: 18px;
+}
+.orgabis {
+	text-align: center;
+}
+.contact {
+	border-top: 5px groove green;
+}
